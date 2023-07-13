@@ -1,0 +1,9 @@
+/**
+** Step 1 : Create All UI Components ['Label' , 'Error Message' , 'Input Feilds' , 'Button']
+** Step 2 : Create Component [Input Group]
+** Step 5 : make utils files and validity file
+** Step 5 : handleCahnge Function with validity
+** Step 3 : keyup check validity
+** Step 4 : blur check validity
+** Step 6 : handlesubmt and send data to state and show all with filter
+*/
